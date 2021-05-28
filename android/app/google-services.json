@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598986556763",
+    "project_id": "contatos-lddm",
+    "storage_bucket": "contatos-lddm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598986556763:android:5461911231004f3a9ec67e",
+        "android_client_info": {
+          "package_name": "com.lddm.contacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598986556763-u4vnoj2anfdvkfga33gv2sksg4cq95hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVipWCYNELp0Z_gcefs6NWwvV-sEvX7Q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598986556763-u4vnoj2anfdvkfga33gv2sksg4cq95hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
