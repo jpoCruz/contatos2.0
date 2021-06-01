@@ -13,4 +13,5 @@ Entre todos esses, não consegui integrar a data de nascimento com o Google Cale
 Preview do app no youtube: https://youtu.be/tYFNv5Jdh3Y
 
 ![](https://i.ibb.co/S0WjNbX/Webp-net-resizeimage-1.jpg) ![](https://i.ibb.co/cYfNWJp/Webp-net-resizeimage-2.jpg) ![](https://i.ibb.co/YTDKVvY/Webp-net-resizeimage-3.jpg) ![](https://i.ibb.co/C7D43rv/Webp-net-resizeimage.jpg) ![](https://i.ibb.co/j8vpc41/screenshot-2021-05-28-12-50-25.jpg)
+![](https://i.ibb.co/w0jPjxN/Arco-Linux-2021-05-31-1622511064-screenshot-1366x768-000.jpg)
 
